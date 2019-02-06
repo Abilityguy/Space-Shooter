@@ -4,4 +4,5 @@ Space Shooter Game using Javascript and CSS
     The player controls the spaceship using the arrow keys.
     The player can use the spacebar key to shoot.
     The player dies on making contact with an enemy.
+    The game speeds up on regular intervals to increase the difficulty
     The player is given three lives to achieve the highest score possible.
