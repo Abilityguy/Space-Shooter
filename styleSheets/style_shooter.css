@@ -1,0 +1,24 @@
+#mycanvas{
+                        border: 5px solid red;
+                        background : url("../Images/bg2.png");
+                        -webkit-animation: animatedBackground 20s linear infinite;
+                        background-repeat: repeat-y;
+                }
+
+                @-webkit-keyframes animatedBackground {
+                        from { background-position: 0 0; }
+                        to { background-position: 0 2000px; }
+                }
+
+body {
+  background-image: url("../background.png");
+}
+html {
+  background-color: black; 
+}
+canvas {
+  display:block;
+  margin:30px auto 0;
+  border:1px dashed #ccc;
+  background:#000;
+}
