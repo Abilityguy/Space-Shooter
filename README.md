@@ -7,4 +7,4 @@ The player dies on making contact with an enemy.
 The game speeds up on regular intervals to increase the difficulty
 The player is given three lives to achieve the highest score possible.
 
-![alt text](http://Images/Screenshot.png)
+![alt text](https://github.com/Abilityguy/Space-Shooter/blob/master/Images/Screenshot.png)
