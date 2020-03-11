@@ -10,9 +10,6 @@
                         to { background-position: 0 2000px; }
                 }
 
-body {
-  background-image: url("../background.png");
-}
 html {
   background-color: black; 
 }
